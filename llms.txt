@@ -1,0 +1,47 @@
+# Farmsclub
+
+> Private farmhouse rentals in the UAE. Three farms booked whole-property by the
+> day or weekend: Grand Haven (Kalba, Sharjah), Happy Haven (Ras Al Khaimah) and
+> Green Haven (Ras Al Khaimah). Every farm has a free 360deg virtual walkthrough.
+
+## What Farmsclub is
+Farmsclub rents entire private farmhouses — you get the gate code and the whole
+property, not a room. Pools, lawns, barbecue yards, animal pens, shaded majlis
+seating and parking. Suited to family weekends, birthdays, small weddings,
+corporate offsites and staycations near Dubai, Sharjah and Ras Al Khaimah.
+
+## Farms
+- [Grand Haven, Kalba - Sharjah](https://www.farmsclub.ae/grand-haven.html): twelve acres between the Kalba mangroves and the Hajar foothills. Pool, large lawn, barbecue yard. 360deg tour: https://www.farmsclub.ae/grand-haven.html#tour
+- [Happy Haven, Ras Al Khaimah](https://www.farmsclub.ae/happy-haven.html): eight acres an hour from Dubai, built around children, with animals. 360deg tour: https://www.farmsclub.ae/happy-haven.html#tour
+- [Green Haven, Ras Al Khaimah](https://www.farmsclub.ae/green-haven.html): a mango and citrus orchard around a low white house — the quiet farm. 360deg tour: https://www.farmsclub.ae/green-haven.html#tour
+
+## 360deg virtual tours
+Each farm page carries a drag-to-look panorama viewer at the anchor #tour, with
+spots for the pool, lawn, majlis, kitchen and orchard. Linking to
+<farm-page>.html#tour opens the page directly at the walkthrough.
+
+## FAQs
+Each farm page has its own FAQ section at the anchor #faqs, answering that farm's
+guest capacity, bedroom and bathroom count, pet policy, pool heating, check-in
+times, parking and event rules. Club-wide booking questions are at https://www.farmsclub.ae/#faqs.
+Pets are allowed at Happy Haven only. Capacities: Grand Haven sleeps 18 (60 day
+guests, 8 bedrooms), Happy Haven sleeps 14 (40 day guests, 6 bedrooms), Green
+Haven sleeps 10 (30 day guests, 4 bedrooms).
+
+## Standards and arrival
+Every room is cleaned before guests arrive and again after they leave, with fresh
+linen each booking and the pool tested before each arrival. All three farms are run
+by one management team. Each farm page has a "Before you come" section at the anchor
+#arrival giving drive times from Dubai, Sharjah and Ras Al Khaimah, the road surface
+and parking, how the gate code is sent, phone and Wi-Fi coverage, nearest supermarket,
+pharmacy, hospital and fuel, and a season-by-season note (comfortable months, pool
+heating window, fruit seasons). Enquiries are answered on WhatsApp 8am-11pm.
+
+## Booking
+Whole-farm bookings by day or weekend. Enquiries via the contact section of any
+farm page.
+
+## Keywords
+farmhouse rental UAE, private farm booking Sharjah, farm stay Ras Al Khaimah,
+farmhouse near Dubai, 360 virtual tour farmhouse, day-use farm rental,
+weekend farm getaway UAE, kids farm with animals RAK, pool farmhouse Kalba
